@@ -1,0 +1,301 @@
+review_id,product_id,seller_id,rating,text,created_at
+R-000001,P-1001,S-01,3.0,Received the item. Packaging ok.,2026-01-26T04:45:00
+R-000002,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-26T03:11:00
+R-000003,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-26T22:10:00
+R-000004,P-1002,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-01-26T05:26:00
+R-000005,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-26T03:29:00
+R-000006,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-01-26T01:28:00
+R-000007,P-1002,S-01,3.0,Delivery on time. Product as described.,2026-01-26T18:50:00
+R-000008,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-01-26T01:33:00
+R-000009,P-1001,S-02,3.0,Received the item. Packaging ok.,2026-01-26T12:58:00
+R-000010,P-1002,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-01-26T12:38:00
+R-000011,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-01-26T20:47:00
+R-000012,P-1001,S-01,2.0,"Terrible experience, not working, refund requested.",2026-01-26T21:50:00
+R-000013,P-1001,S-02,3.0,Received the item. Packaging ok.,2026-01-26T01:05:00
+R-000014,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-26T07:15:00
+R-000015,P-1002,S-02,4.0,Normal quality for the price.,2026-01-26T04:52:00
+R-000016,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-01-26T19:57:00
+R-000017,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-26T03:06:00
+R-000018,P-1001,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-01-26T20:21:00
+R-000019,P-1001,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-01-26T18:53:00
+R-000020,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-01-26T21:52:00
+R-000021,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-01-27T00:06:00
+R-000022,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-01-27T21:48:00
+R-000023,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-27T20:26:00
+R-000024,P-1002,S-02,2.0,"Terrible experience, not working, refund requested.",2026-01-27T08:10:00
+R-000025,P-1001,S-01,3.0,Received the item. Packaging ok.,2026-01-27T16:35:00
+R-000026,P-1001,S-01,1.0,"Terrible experience, not working, refund requested.",2026-01-27T09:02:00
+R-000027,P-1002,S-01,3.0,Normal quality for the price.,2026-01-27T10:38:00
+R-000028,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-27T04:07:00
+R-000029,P-1001,S-01,1.0,"Bad quality, arrived damaged, disappointed.",2026-01-27T20:05:00
+R-000030,P-1001,S-01,1.0,"Awful, looks fake, waste of money.",2026-01-27T07:48:00
+R-000031,P-1001,S-01,3.0,Received the item. Packaging ok.,2026-01-27T09:30:00
+R-000032,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-01-27T08:17:00
+R-000033,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-27T12:05:00
+R-000034,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-01-27T22:59:00
+R-000035,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-01-27T08:29:00
+R-000036,P-1001,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-01-27T06:15:00
+R-000037,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-27T18:47:00
+R-000038,P-1001,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-01-27T03:11:00
+R-000039,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-01-27T13:41:00
+R-000040,P-1001,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-01-27T15:31:00
+R-000041,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-28T05:17:00
+R-000042,P-1001,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-01-28T10:42:00
+R-000043,P-1001,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-01-28T01:56:00
+R-000044,P-1001,S-01,1.0,"Bad quality, arrived damaged, disappointed.",2026-01-28T13:46:00
+R-000045,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-28T14:18:00
+R-000046,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-28T08:08:00
+R-000047,P-1002,S-02,2.0,"Awful, looks fake, waste of money.",2026-01-28T15:36:00
+R-000048,P-1002,S-01,1.0,"Awful, looks fake, waste of money.",2026-01-28T02:30:00
+R-000049,P-1001,S-02,1.0,"Terrible experience, not working, refund requested.",2026-01-28T08:20:00
+R-000050,P-1002,S-02,2.0,"Awful, looks fake, waste of money.",2026-01-28T20:52:00
+R-000051,P-1001,S-02,3.0,Received the item. Packaging ok.,2026-01-28T09:01:00
+R-000052,P-1001,S-01,4.0,Received the item. Packaging ok.,2026-01-28T09:37:00
+R-000053,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-28T17:15:00
+R-000054,P-1002,S-02,3.0,Received the item. Packaging ok.,2026-01-28T21:39:00
+R-000055,P-1002,S-02,1.0,"Terrible experience, not working, refund requested.",2026-01-28T21:44:00
+R-000056,P-1002,S-01,4.0,Normal quality for the price.,2026-01-28T19:08:00
+R-000057,P-1001,S-01,1.0,"Awful, looks fake, waste of money.",2026-01-28T18:37:00
+R-000058,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-28T04:21:00
+R-000059,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-28T07:10:00
+R-000060,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-01-28T21:11:00
+R-000061,P-1001,S-01,4.0,Received the item. Packaging ok.,2026-01-29T00:50:00
+R-000062,P-1001,S-02,3.0,Delivery on time. Product as described.,2026-01-29T09:06:00
+R-000063,P-1001,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-01-29T07:35:00
+R-000064,P-1001,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-01-29T00:48:00
+R-000065,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-29T11:59:00
+R-000066,P-1002,S-02,4.0,Received the item. Packaging ok.,2026-01-29T06:05:00
+R-000067,P-1002,S-01,2.0,"Terrible experience, not working, refund requested.",2026-01-29T10:42:00
+R-000068,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-01-29T08:41:00
+R-000069,P-1001,S-02,1.0,"Awful, looks fake, waste of money.",2026-01-29T12:25:00
+R-000070,P-1002,S-01,4.0,Delivery on time. Product as described.,2026-01-29T22:38:00
+R-000071,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-29T11:08:00
+R-000072,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-29T22:41:00
+R-000073,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-01-29T18:42:00
+R-000074,P-1001,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-01-29T15:52:00
+R-000075,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-29T05:47:00
+R-000076,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-29T03:11:00
+R-000077,P-1001,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-01-29T00:50:00
+R-000078,P-1001,S-01,3.0,Normal quality for the price.,2026-01-29T15:32:00
+R-000079,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-01-29T13:38:00
+R-000080,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-29T14:30:00
+R-000081,P-1001,S-01,4.0,Normal quality for the price.,2026-01-30T01:42:00
+R-000082,P-1001,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-01-30T15:06:00
+R-000083,P-1002,S-02,4.0,Normal quality for the price.,2026-01-30T15:21:00
+R-000084,P-1002,S-01,4.0,Delivery on time. Product as described.,2026-01-30T21:23:00
+R-000085,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-30T08:00:00
+R-000086,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-01-30T04:43:00
+R-000087,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-30T02:11:00
+R-000088,P-1002,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-01-30T02:07:00
+R-000089,P-1001,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-01-30T19:39:00
+R-000090,P-1002,S-02,2.0,"Terrible experience, not working, refund requested.",2026-01-30T13:18:00
+R-000091,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-01-30T16:34:00
+R-000092,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-30T05:38:00
+R-000093,P-1002,S-01,3.0,Normal quality for the price.,2026-01-30T13:26:00
+R-000094,P-1001,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-01-30T06:12:00
+R-000095,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-30T11:09:00
+R-000096,P-1002,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-01-30T02:47:00
+R-000097,P-1002,S-01,4.0,Received the item. Packaging ok.,2026-01-30T07:39:00
+R-000098,P-1001,S-01,3.0,Received the item. Packaging ok.,2026-01-30T00:41:00
+R-000099,P-1001,S-01,1.0,"Awful, looks fake, waste of money.",2026-01-30T19:15:00
+R-000100,P-1001,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-01-30T20:40:00
+R-000101,P-1001,S-01,3.0,Received the item. Packaging ok.,2026-01-31T10:38:00
+R-000102,P-1002,S-02,3.0,Received the item. Packaging ok.,2026-01-31T20:12:00
+R-000103,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-01-31T19:19:00
+R-000104,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-31T02:21:00
+R-000105,P-1002,S-01,3.0,Delivery on time. Product as described.,2026-01-31T14:47:00
+R-000106,P-1002,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-01-31T17:48:00
+R-000107,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-31T11:00:00
+R-000108,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-01-31T15:51:00
+R-000109,P-1002,S-02,1.0,"Terrible experience, not working, refund requested.",2026-01-31T16:38:00
+R-000110,P-1001,S-02,4.0,Delivery on time. Product as described.,2026-01-31T20:20:00
+R-000111,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-01-31T08:14:00
+R-000112,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-31T22:02:00
+R-000113,P-1002,S-02,4.0,Received the item. Packaging ok.,2026-01-31T07:33:00
+R-000114,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-01-31T16:09:00
+R-000115,P-1002,S-02,4.0,Normal quality for the price.,2026-01-31T12:00:00
+R-000116,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-01-31T06:34:00
+R-000117,P-1002,S-01,3.0,Normal quality for the price.,2026-01-31T06:32:00
+R-000118,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-01-31T03:25:00
+R-000119,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-01-31T00:28:00
+R-000120,P-1001,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-01-31T04:18:00
+R-000121,P-1002,S-01,4.0,Normal quality for the price.,2026-02-01T16:01:00
+R-000122,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-01T16:18:00
+R-000123,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-01T05:10:00
+R-000124,P-1001,S-02,1.0,"Bad quality, arrived damaged, disappointed.",2026-02-01T19:02:00
+R-000125,P-1002,S-01,4.0,Delivery on time. Product as described.,2026-02-01T15:06:00
+R-000126,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-01T20:48:00
+R-000127,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-01T05:21:00
+R-000128,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-01T13:56:00
+R-000129,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-01T09:39:00
+R-000130,P-1002,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-01T14:30:00
+R-000131,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-01T02:26:00
+R-000132,P-1001,S-01,4.0,Normal quality for the price.,2026-02-01T14:59:00
+R-000133,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-01T09:17:00
+R-000134,P-1002,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-01T11:00:00
+R-000135,P-1002,S-01,1.0,"Awful, looks fake, waste of money.",2026-02-01T22:56:00
+R-000136,P-1002,S-01,4.0,Received the item. Packaging ok.,2026-02-01T17:42:00
+R-000137,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-01T21:40:00
+R-000138,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-01T10:57:00
+R-000139,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-01T09:50:00
+R-000140,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-01T11:02:00
+R-000141,P-1001,S-02,4.0,Received the item. Packaging ok.,2026-02-02T14:06:00
+R-000142,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-02T21:20:00
+R-000143,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-02-02T09:49:00
+R-000144,P-1002,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-02T05:24:00
+R-000145,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-02T03:52:00
+R-000146,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-02T09:57:00
+R-000147,P-1002,S-02,3.0,Delivery on time. Product as described.,2026-02-02T15:35:00
+R-000148,P-1001,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-02T02:22:00
+R-000149,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-02T00:05:00
+R-000150,P-1002,S-02,4.0,Normal quality for the price.,2026-02-02T05:04:00
+R-000151,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-02T15:32:00
+R-000152,P-1002,S-01,4.0,Received the item. Packaging ok.,2026-02-02T07:58:00
+R-000153,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-02T13:10:00
+R-000154,P-1001,S-02,4.0,Received the item. Packaging ok.,2026-02-02T03:25:00
+R-000155,P-1002,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-02T04:55:00
+R-000156,P-1002,S-01,2.0,"Terrible experience, not working, refund requested.",2026-02-02T21:16:00
+R-000157,P-1002,S-01,4.0,Normal quality for the price.,2026-02-02T10:48:00
+R-000158,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-02T07:45:00
+R-000159,P-1001,S-02,3.0,Normal quality for the price.,2026-02-02T15:08:00
+R-000160,P-1001,S-02,4.0,Received the item. Packaging ok.,2026-02-02T01:54:00
+R-000161,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-03T18:07:00
+R-000162,P-1002,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-03T21:09:00
+R-000163,P-1001,S-02,3.0,Received the item. Packaging ok.,2026-02-03T15:44:00
+R-000164,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-03T09:49:00
+R-000165,P-1001,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-03T21:48:00
+R-000166,P-1002,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-02-03T13:07:00
+R-000167,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-03T19:37:00
+R-000168,P-1002,S-02,2.0,"Awful, looks fake, waste of money.",2026-02-03T09:22:00
+R-000169,P-1001,S-01,4.0,Normal quality for the price.,2026-02-03T09:46:00
+R-000170,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-03T22:30:00
+R-000171,P-1001,S-01,3.0,Normal quality for the price.,2026-02-03T10:32:00
+R-000172,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-02-03T03:04:00
+R-000173,P-1002,S-02,3.0,Received the item. Packaging ok.,2026-02-03T04:30:00
+R-000174,P-1002,S-02,4.0,Delivery on time. Product as described.,2026-02-03T10:04:00
+R-000175,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-03T07:42:00
+R-000176,P-1002,S-02,1.0,"Terrible experience, not working, refund requested.",2026-02-03T09:01:00
+R-000177,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-03T19:57:00
+R-000178,P-1002,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-03T00:51:00
+R-000179,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-03T10:18:00
+R-000180,P-1002,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-03T16:48:00
+R-000181,P-1001,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-02-04T13:15:00
+R-000182,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-04T20:02:00
+R-000183,P-1001,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-02-04T09:32:00
+R-000184,P-1001,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-02-04T12:22:00
+R-000185,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-04T02:04:00
+R-000186,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-04T03:07:00
+R-000187,P-1001,S-01,1.0,"Terrible experience, not working, refund requested.",2026-02-04T04:17:00
+R-000188,P-1001,S-01,3.0,Normal quality for the price.,2026-02-04T20:00:00
+R-000189,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-04T09:27:00
+R-000190,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-04T22:33:00
+R-000191,P-1001,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-04T00:32:00
+R-000192,P-1001,S-02,2.0,"Awful, looks fake, waste of money.",2026-02-04T17:57:00
+R-000193,P-1001,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-04T15:25:00
+R-000194,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-04T15:38:00
+R-000195,P-1001,S-01,4.0,Delivery on time. Product as described.,2026-02-04T03:41:00
+R-000196,P-1002,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-04T20:45:00
+R-000197,P-1001,S-01,2.0,"Awful, looks fake, waste of money.",2026-02-04T13:00:00
+R-000198,P-1002,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-02-04T03:54:00
+R-000199,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-04T11:34:00
+R-000200,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-04T14:34:00
+R-000201,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-05T02:17:00
+R-000202,P-1001,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-05T04:26:00
+R-000203,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-05T22:42:00
+R-000204,P-1002,S-01,4.0,Normal quality for the price.,2026-02-05T12:00:00
+R-000205,P-1001,S-01,1.0,"Terrible experience, not working, refund requested.",2026-02-05T03:41:00
+R-000206,P-1002,S-02,1.0,"Terrible experience, not working, refund requested.",2026-02-05T14:38:00
+R-000207,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-05T11:35:00
+R-000208,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-05T02:22:00
+R-000209,P-1001,S-01,1.0,"Awful, looks fake, waste of money.",2026-02-05T12:50:00
+R-000210,P-1002,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-02-05T11:04:00
+R-000211,P-1001,S-01,1.0,"Awful, looks fake, waste of money.",2026-02-05T23:00:00
+R-000212,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-05T20:43:00
+R-000213,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-05T11:46:00
+R-000214,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-05T17:59:00
+R-000215,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-02-05T00:15:00
+R-000216,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-05T09:52:00
+R-000217,P-1002,S-01,2.0,"Awful, looks fake, waste of money.",2026-02-05T05:59:00
+R-000218,P-1001,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-05T02:27:00
+R-000219,P-1002,S-01,4.0,"Excellent product, very satisfied, recommend!",2026-02-05T10:41:00
+R-000220,P-1002,S-02,5.0,"Excellent product, very satisfied, recommend!",2026-02-05T03:55:00
+R-000221,P-1002,S-01,4.0,Received the item. Packaging ok.,2026-02-06T12:21:00
+R-000222,P-1001,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-06T20:06:00
+R-000223,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-06T07:33:00
+R-000224,P-1002,S-01,1.0,"Awful, looks fake, waste of money.",2026-02-06T18:06:00
+R-000225,P-1001,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-06T08:03:00
+R-000226,P-1001,S-01,1.0,"Bad quality, arrived damaged, disappointed.",2026-02-06T22:22:00
+R-000227,P-1001,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-06T15:50:00
+R-000228,P-1002,S-02,4.0,Normal quality for the price.,2026-02-06T05:09:00
+R-000229,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-06T09:22:00
+R-000230,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-06T15:25:00
+R-000231,P-1001,S-01,1.0,"Terrible experience, not working, refund requested.",2026-02-06T22:00:00
+R-000232,P-1001,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-06T15:21:00
+R-000233,P-1001,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-06T02:06:00
+R-000234,P-1002,S-01,3.0,Delivery on time. Product as described.,2026-02-06T17:13:00
+R-000235,P-1001,S-01,2.0,"Terrible experience, not working, refund requested.",2026-02-06T17:53:00
+R-000236,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-06T13:57:00
+R-000237,P-1002,S-01,4.0,Normal quality for the price.,2026-02-06T02:14:00
+R-000238,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-06T08:36:00
+R-000239,P-1001,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-06T11:56:00
+R-000240,P-1002,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-06T10:34:00
+R-000241,P-1002,S-02,3.0,Normal quality for the price.,2026-02-07T22:03:00
+R-000242,P-1002,S-02,1.0,"Terrible experience, not working, refund requested.",2026-02-07T07:18:00
+R-000243,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-07T02:38:00
+R-000244,P-1002,S-01,4.0,"Nice item, good packaging, happy with purchase.",2026-02-07T22:35:00
+R-000245,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-07T06:10:00
+R-000246,P-1001,S-02,1.0,"Terrible experience, not working, refund requested.",2026-02-07T15:09:00
+R-000247,P-1002,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-07T16:00:00
+R-000248,P-1001,S-02,2.0,"Awful, looks fake, waste of money.",2026-02-07T15:45:00
+R-000249,P-1002,S-02,4.0,"Excellent product, very satisfied, recommend!",2026-02-07T06:48:00
+R-000250,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-07T18:55:00
+R-000251,P-1001,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-07T15:20:00
+R-000252,P-1001,S-02,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-07T11:55:00
+R-000253,P-1001,S-02,2.0,"Awful, looks fake, waste of money.",2026-02-07T08:02:00
+R-000254,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-07T03:22:00
+R-000255,P-1002,S-01,2.0,"Terrible experience, not working, refund requested.",2026-02-07T04:44:00
+R-000256,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-07T08:44:00
+R-000257,P-1001,S-01,2.0,"Awful, looks fake, waste of money.",2026-02-07T03:47:00
+R-000258,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-07T14:19:00
+R-000259,P-1002,S-01,1.0,"Terrible experience, not working, refund requested.",2026-02-07T21:34:00
+R-000260,P-1001,S-01,2.0,"Bad quality, arrived damaged, disappointed.",2026-02-07T08:12:00
+R-000261,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-08T02:18:00
+R-000262,P-1001,S-02,4.0,Received the item. Packaging ok.,2026-02-08T12:44:00
+R-000263,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-08T08:13:00
+R-000264,P-1001,S-02,2.0,"Terrible experience, not working, refund requested.",2026-02-08T21:56:00
+R-000265,P-1001,S-02,3.0,Delivery on time. Product as described.,2026-02-08T04:36:00
+R-000266,P-1001,S-02,1.0,"Bad quality, arrived damaged, disappointed.",2026-02-08T06:48:00
+R-000267,P-1001,S-02,4.0,Normal quality for the price.,2026-02-08T18:32:00
+R-000268,P-1002,S-02,1.0,"Awful, looks fake, waste of money.",2026-02-08T09:45:00
+R-000269,P-1002,S-01,4.0,Delivery on time. Product as described.,2026-02-08T04:14:00
+R-000270,P-1002,S-02,4.0,Normal quality for the price.,2026-02-08T13:11:00
+R-000271,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-08T17:43:00
+R-000272,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-08T20:33:00
+R-000273,P-1001,S-02,5.0,"Great quality, works perfectly, fast delivery.",2026-02-08T22:33:00
+R-000274,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-08T05:41:00
+R-000275,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-08T20:59:00
+R-000276,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-08T22:54:00
+R-000277,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-08T01:03:00
+R-000278,P-1001,S-02,1.0,"Bad quality, arrived damaged, disappointed.",2026-02-08T22:01:00
+R-000279,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-08T20:39:00
+R-000280,P-1001,S-02,4.0,Delivery on time. Product as described.,2026-02-08T02:37:00
+R-000281,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-09T08:31:00
+R-000282,P-1001,S-01,4.0,Delivery on time. Product as described.,2026-02-09T19:10:00
+R-000283,P-1001,S-02,4.0,Normal quality for the price.,2026-02-09T07:19:00
+R-000284,P-1002,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-09T15:25:00
+R-000285,P-1001,S-02,4.0,Normal quality for the price.,2026-02-09T22:47:00
+R-000286,P-1002,S-01,5.0,"Excellent product, very satisfied, recommend!",2026-02-09T05:22:00
+R-000287,P-1001,S-02,4.0,"Great quality, works perfectly, fast delivery.",2026-02-09T04:44:00
+R-000288,P-1001,S-02,2.0,"Awful, looks fake, waste of money.",2026-02-09T15:57:00
+R-000289,P-1001,S-01,2.0,"Terrible experience, not working, refund requested.",2026-02-09T17:56:00
+R-000290,P-1002,S-02,3.0,Received the item. Packaging ok.,2026-02-09T10:49:00
+R-000291,P-1001,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-09T04:22:00
+R-000292,P-1001,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-09T17:41:00
+R-000293,P-1001,S-02,1.0,"Terrible experience, not working, refund requested.",2026-02-09T11:48:00
+R-000294,P-1002,S-01,5.0,"Nice item, good packaging, happy with purchase.",2026-02-09T04:16:00
+R-000295,P-1002,S-01,4.0,"Great quality, works perfectly, fast delivery.",2026-02-09T05:50:00
+R-000296,P-1002,S-01,3.0,Received the item. Packaging ok.,2026-02-09T01:33:00
+R-000297,P-1002,S-01,3.0,Delivery on time. Product as described.,2026-02-09T16:59:00
+R-000298,P-1002,S-02,5.0,"Nice item, good packaging, happy with purchase.",2026-02-09T10:09:00
+R-000299,P-1002,S-01,5.0,"Great quality, works perfectly, fast delivery.",2026-02-09T14:11:00
+R-000300,P-1002,S-02,4.0,"Nice item, good packaging, happy with purchase.",2026-02-09T10:40:00
